@@ -4,7 +4,6 @@ AI & Python Developer | AI-Driven Solutions
 ## Professional Profile
 I am an IT professional and a graduate of LINK Academy (Class of 2024), specializing in AI & Python Development. My education focused on using scientific methods and economic needs to develop practical skills in AI and Python.
 
-* Academic Ranking: Ranked 12th in my generation.
 * Overall Result: Achieved a final score of 97.81% of total credits.
 * Practical Experience: Completed 47 hands-on projects.
 * Education Period: January 2025 - January 2026.
