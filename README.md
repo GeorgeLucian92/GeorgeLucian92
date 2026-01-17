@@ -1,31 +1,26 @@
-# George-Lucian Pavel
-AI & Python Developer | AI-Driven Solutions
+## Hi, I'm George 👋
 
-## Professional Profile
-I am an IT professional and a graduate of LINK Academy (Class of 2024), specializing in AI & Python Development. My education focused on using scientific methods and economic needs to develop practical skills in AI and Python.
+Junior Data & Cloud Engineer focused on building practical, real-world data and AI projects.
 
-* Overall Result: Achieved a final score of 97.81% of total credits.
-* Practical Experience: Completed 47 hands-on projects.
-* Education Period: January 2025 - January 2026.
+### 🔧 Tech Stack
+- Python (Pandas, NumPy, scikit-learn, OOP)
+- SQL (data analysis, queries)
+- Machine Learning (classification, evaluation)
+- R for Data Science
+- AWS & Cloud Data Engineering (S3, Lambda basics)
+- Git & GitHub
 
-## Technical Skills
-* Programming: Python (OOP, Core Data Structures), R for Data Science.
-* Data & AI: Machine Learning, Interactive Data Analysis, AI Tools (ChatGPT, Midjourney).
-* Database Management: SQL and Data Storage Solutions.
-* Tools: Git, GitHub, Cloud Data Engineering.
+### 📌 What I do
+- Build end-to-end data & ML projects
+- Work with real datasets and automation workflows
+- Focus on clean, documented, reproducible code
 
-## Academic Excellence
-I achieved 100% scores in several key modules, including:
-* Introduction to Python Programming
-* Data Analysis and Processing using Python
-* Interactive Data Analysis and Visualization
-* R for Data Science and Data Analytics
-* Introduction to Machine Learning using Python
+### 🚀 Experience & Background
+- 40+ hands-on projects in data analysis, ML, and cloud workflows
+- Strong foundation in Python, data processing, and applied machine learning
 
-## Communication & Languages
-* English: Business English level.
-* Italian: Elementary (Currently learning).
-* Location: Relocating to Ticino, Switzerland.
+### 🌍 Location
+- Based in Romania, relocating to Ticino, Switzerland
 
-## Contact
-* GitHub: https://github.com/GeorgeLucian92
+### 📫 Contact
+- GitHub: https://github.com/GeorgeLucian92
